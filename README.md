@@ -1,0 +1,2 @@
+# Email-Setup-Application
+This desktop application is a concept app for IT administrative specialists to create emails for new hires. The program was coded in Java, uses the JavaFX platform to enhance user experience, and includes a CSS stylesheet to give a modern looking GUI. The app takes user input: their first and last name, and the department they work in, then returns an email for the user, along with a randomly generated string of 8 characters as the password for the user. App will be further enhanced and source code will be made available to view soon.
